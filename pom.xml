@@ -27,7 +27,7 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>${mule.maven.plugin.version}</version>
+				<version>3.4.1</version>
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
@@ -40,7 +40,7 @@
     <environment>Sandbox</environment>
     <applicationName>sravan-jenkins</applicationName>
     <businessGroup>virtusa</businessGroup>
- 
+
 </cloudHubDeployment>
 
 				</configuration>
