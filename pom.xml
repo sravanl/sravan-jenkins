@@ -40,9 +40,9 @@
     <environment>Sandbox</environment>
     <applicationName>sravan-jenkins</applicationName>
     <businessGroup>virtusa</businessGroup>
-    <workerType>1</workerType>
+ 
 </cloudHubDeployment>
-				
+
 				</configuration>
 			</plugin>
 		</plugins>
