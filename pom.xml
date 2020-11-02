@@ -32,7 +32,7 @@
 				<configuration>
 				<cloudHubDeployment>
     <uri>https://anypoint.mulesoft.com</uri>
-    <muleVersion>4.3</muleVersion>
+    <muleVersion>4.3.0</muleVersion>
     <!-- Deploy User Parameter -->
     <username>shirishagouru</username>
     <password>7702482426Ej</password>
@@ -78,6 +78,12 @@
         </repository>
     </repositories>
     <pluginRepositories>
+
+    <pluginRepository>
+        <id>mule-public</id>
+        <url>https://repository.mulesoft.org/nexus/content/repositories/releases</url>
+    </pluginRepository>
+
         <pluginRepository>
             <id>mulesoft-releases</id>
             <name>mulesoft release repository</name>
