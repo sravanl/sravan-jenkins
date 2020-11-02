@@ -40,6 +40,7 @@
     <environment>Sandbox</environment>
     <applicationName>sravan-jenkins</applicationName>
     <businessGroup>virtusa</businessGroup>
+		<objectStoreV2>true</objectStoreV2>
 
 </cloudHubDeployment>
 
